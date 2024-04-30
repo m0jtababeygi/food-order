@@ -1,0 +1,29 @@
+{
+    "meals": {
+        "m1": {
+            "description": "Finest fish and veggies",
+            "name": "Sushi",
+            "price": 22.99
+        },
+        "m2": {
+            "description": "A german specialty!",
+            "name": "Schnitzel",
+            "price": 16.5
+        },
+        "m3": {
+            "description": "American, raw, meaty",
+            "name": "Barbecue Burger",
+            "price": 14.99
+        },
+        "m4": {
+            "name": "Green Bowl",
+            "description": "Healthy...and green...",
+            "price": 18.99
+        },
+        "m5": {
+            "description": "iranian food, meat of sheep",
+            "name": "kabab koubideh",
+            "price": 19.87
+        }
+    }
+}
